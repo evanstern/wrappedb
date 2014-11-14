@@ -1,0 +1,23 @@
+{
+  "name": "wrappedb",
+  "version": "0.0.0",
+  "homepage": "https://github.com/evanstern/wrappedb",
+  "authors": [
+    "Evan Stern <evanmicahstern@gmail.com>"
+  ],
+  "description": "A light wrapper for database/promise based database implementations in JavaScript",
+  "main": "wrappedb.js",
+  "moduleType": [
+    "amd",
+    "globals",
+    "node"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
